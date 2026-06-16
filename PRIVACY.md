@@ -6,7 +6,6 @@ Highfield is a private Discord bot used exclusively within a single Discord serv
 
 ## Information We Collect
 
-* Discord user IDs (when necessary for bot functionality)
 * Message content only when required to process bot commands or configured features
 * Server and channel IDs required for operation
 
@@ -15,7 +14,6 @@ Highfield is a private Discord bot used exclusively within a single Discord serv
 The collected information is used solely to:
 
 * Deliver messages from the Roblox game to Discord.
-* Process bot commands.
 * Operate and maintain the bot's functionality.
 
 ## Data Sharing
