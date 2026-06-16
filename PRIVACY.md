@@ -30,7 +30,9 @@ Highfield does not sell, rent, or share user data with third parties. Informatio
 
 ## Data Retention
 
-Data is retained only for as long as necessary to operate the bot and provide synchronization features. Information may be deleted at any time when it is no longer required.
+Message content is processed only as needed to provide synchronization features and is not persistently stored.
+
+Certain operational data, such as active Discord Scheduled Events, may be temporarily cached in the bot's memory while it is running to support synchronization with the associated Roblox game. This cached data is not shared with third parties, is never written to persistent storage, and is automatically discarded when the bot stops or restarts.
 
 ## Security
 
